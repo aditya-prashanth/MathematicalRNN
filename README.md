@@ -1,3 +1,3 @@
-- This project creates a 4-layer Recurrent Neural Network that can classify an input to an output of a given size.
+- This project creates a mathematically defined 4-layer Neural Network that can classify an input to an output of a given size
 - The project uses gradient descent to minimize loss until the model has sufficient performance
 - The math behind the project is overarchingly discussed through comments in the code
